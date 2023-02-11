@@ -89,7 +89,7 @@ public class LoginPage {
 		return element.getText();
 	}
 	
-public void test()
+public void test1()
 {
 	
 }
