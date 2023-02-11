@@ -1,0 +1,7 @@
+tests\HomeTest.class
+tests\ResetPasswordTest.class
+testbase\TestBase.class
+tests\Test.class
+tests\TimeSheetsTest.class
+tests\LoginTest.class
+tests\AdminUserManagementTest.class
