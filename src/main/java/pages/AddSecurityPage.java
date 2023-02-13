@@ -10,4 +10,9 @@ public class AddSecurityPage {
 		System.out.println("user 4");
 		
 	}
+	
+	public void getSecurity()
+	{
+		System.out.println("TEST");
+	}
 }
