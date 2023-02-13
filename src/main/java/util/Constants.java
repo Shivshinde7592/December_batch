@@ -10,6 +10,9 @@ public class Constants {
 	public static final String RESET_PASSWORD_PAGE_HEADER="Reset Password";
 	
 	
+	public static final String HOME_PAGE_TITLE="Home Page";
+	
+	
 	
 	public static final List<String> HOMEPAGE_MENU_LINKS =Arrays.asList("Admin","PIM","Leave","Time","Recruitment","My Info","Performance","Dashboard","Directory","Maintenance","Buzz");
 	
