@@ -5,6 +5,6 @@ public class AddSecurityPage {
 	
 	public void addsecurity()
 	{
-		System.out.println("user 1");
+		System.out.println("user 2");
 	}
 }
